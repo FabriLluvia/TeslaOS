@@ -19,12 +19,12 @@
 
 ## Repository Activity
 
-### Repository Activity Beta
-Repository Activity (BETA):
+### Repository Activity without Bots
+Repository Activity without Bots
 
 ![Alt](https://repobeats.axiom.co/api/embed/cfde70b7b27c4777ede9fce8324095d59c3f0aa3.svg "Repobeats analytics image")
 
-### Repository Activity DAWN
-Repository Activity (DAWN):
+### Repository Activity with Bots
+Repository Activity with Bots
 
 ![Alt](https://repobeats.axiom.co/api/embed/c37bd031065506d3894ace83bb2ce63c752e64a4.svg "Repobeats analytics image")

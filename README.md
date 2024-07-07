@@ -18,6 +18,8 @@
 
 ## About The Project
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e8e5105404d74d6a9f1f0561f4bb0b4f)](https://app.codacy.com/gh/FabriLluvia/TeslaOS?utm_source=github.com&utm_medium=referral&utm_content=FabriLluvia/TeslaOS&utm_campaign=Badge_Grade)
+
 Hello!
 This operating system is going to be a simple UNIX-like OS made from scratch in Assembly and C.
 

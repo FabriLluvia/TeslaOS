@@ -4,9 +4,9 @@
 - [About The Project](#about-the-project)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-- [Feedback](#feedback)
-- [Updates](#updates)
-- [Contributing](#contributing)
+  - [Feedback](#feedback)
+  - [Updates](#updates)
+  - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -15,9 +15,11 @@
   - [Repository Activity with Bots](#repository-activity-with-bots)
   
 </details>
+
 ## About The Project
 
-It is a simple linux distro
+Hello!
+This operating system is going to be a simple UNIX-like OS made from scratch in Assembly and C.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -34,20 +36,20 @@ To get a local copy up and running follow these simple steps.
 2. Ready to work!
 
 
-## Feedback
+### Feedback
 
 We also have a form to fill to give [feedback](https://forms.gle/VRVUJ2GePC5YFnwR6)
 
 
 
 <!-- Updates -->
-## Updates
+### Updates
 
 See the [open issues](https://gitlab.com/fabrilluvia/TeslaOS/-/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+### Contributing
 
 Contributions are what make the open source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 

@@ -12,8 +12,8 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 - [Repository Activity](#repository-activity)
-  - [Repository Activity Beta](#repository-activity-beta)
-  - [Repository Activity DAWN](#repository-activity-dawn)
+  - [Repository Activity without Bots](#repository-activity-beta)
+  - [Repository Activity with Bots](#repository-activity-dawn)
   
 </details>
 

@@ -1,5 +1,6 @@
 <details open="open">
 <summary>Table of Contents</summary>
+  
 - [About The Project](#about-the-project)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
@@ -13,6 +14,7 @@
 - [Repository Activity](#repository-activity)
   - [Repository Activity Beta](#repository-activity-beta)
   - [Repository Activity DAWN](#repository-activity-dawn)
+  
 </details>
 
 ## Repository Activity

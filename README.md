@@ -6,6 +6,7 @@
 - [About The Project](#about-the-project)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
+  - [Compile the OS](#compile-the-os)
   - [Feedback](#feedback)
   - [Updates](#updates)
   - [Contributing](#contributing)
@@ -37,6 +38,9 @@ To get a local copy up and running follow these simple steps.
    ```
 2. Ready to work!
 
+### Compile the OS
+
+Well, the first version of this OS is not finished yet, so there is nothing on the [INSTALL.md](docs/INSTALL.md) file, but it is going to be the guide of how to compile the OS in the [INSTALL.md](docs/INSTALL.md) file.
 
 ### Feedback
 

@@ -1,23 +1,32 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/309a95661bef4dc6b7ed9d1a0a4a06e2)](https://app.codacy.com/gh/FabriLluvia/TeslaOS/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 <details open="open">
-<summary>Table of Contents</summary>
-  
-- [About The Project](#about-the-project)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Compile the OS](#compile-the-os)
-  - [Feedback](#feedback)
-  - [Updates](#updates)
-  - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-- [Repository Activity](#repository-activity)
-  - [Repository Activity without Bots](#repository-activity-without-bots)
-  - [Repository Activity with Bots](#repository-activity-with-bots)
-  
+  <summary>Table of Contents</summary>
+  <ul>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#compile-the-os">Compile the OS</a></li>
+        <li><a href="#feedback">Feedback</a></li>
+        <li><a href="#updates">Updates</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li>
+      <a href="#repository-activity">Repository Activity</a>
+      <ul>
+        <li><a href="#repository-activity-without-bots">Repository Activity without Bots</a></li>
+        <li><a href="#repository-activity-with-bots">Repository Activity with Bots</a></li>
+      </ul>
+    </li>
+  </ul>
 </details>
+
 
 ## About The Project
 

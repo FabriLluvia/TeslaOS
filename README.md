@@ -87,6 +87,17 @@ We look forward to reviewing your contributions.
 
 Distributed under the Apache License Version 2.0. See `LICENSE` for more information.
 
+<!-- CONTACT -->
+## Contact
+
+FabriLluvia - fmu.elmundodelosjuegos@gmail.com
+
+[Project Link](https://github.com/fabrilluvia/TeslaOS)
+
+## Acknowledgements
+
+* FabriLluvia, me for this proyect
+* Alejandra, by the motivation :D
 
 ## Repository Activity
 

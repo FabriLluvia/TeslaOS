@@ -1,6 +1,6 @@
 ---
-Name: Bug report
-About: Create a report to help us improve
+Name: 'Bug report'
+About: 'Create a report to help us improve'
 Title: 'Title'
 Labels: 'Labels'
 Assignees: 'Assignees'

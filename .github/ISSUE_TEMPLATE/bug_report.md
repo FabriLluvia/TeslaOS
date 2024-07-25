@@ -1,9 +1,9 @@
 ---
 Name: Bug report
 About: Create a report to help us improve
-Title: 'Title'
-Labels: 'Labels'
-Assignees: 'Assignees'
+title: 'Title'
+labels: 'Labels'
+assignees: 'Assignees'
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-Name: 'Bug report'
-About: 'Create a report to help us improve'
-Title: 'Title'
-Labels: 'Labels'
-Assignees: 'Assignees'
+name: 'Bug report'
+about: 'Create a report to help us improve'
+title: 'Title'
+labels: 'Labels'
+assignees: 'Assignees'
 ---
 
 **Describe the bug**

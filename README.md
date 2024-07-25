@@ -49,11 +49,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Compile the OS
 
-Well, the first version of this OS is not finished yet, so there is nothing on the [INSTALL.md](docs/INSTALL.md) file, but it is going to be the guide of how to compile the OS in the [INSTALL.md](docs/INSTALL.md) file.
+Well, the first version of this OS is not finished yet, so there is nothing on the [INSTALL.md](docs/INSTALL.md) file, but it is going to be the guide on how to compile the OS in the [INSTALL.md](docs/INSTALL.md) file.
 
 ### Feedback
 
-We also have a form to fill to give [feedback](https://forms.gle/VRVUJ2GePC5YFnwR6)
+We also have a form to fill out to give [feedback](https://forms.gle/VRVUJ2GePC5YFnwR6)
 
 
 
@@ -66,7 +66,7 @@ See the [open issues](https://gitlab.com/fabrilluvia/TeslaOS/-/issues) for a lis
 <!-- CONTRIBUTING -->
 ### Contributing
 
-Contributions are what make the open source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -74,8 +74,8 @@ Contributions are what make the open source community an amazing place to learn,
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-You can also colaborate donating us to Patreon! 
-Help us making donnations to our [patreon](https://patreon.com/user?u=56529246&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+You can also collaborate by donating to our Patreon! 
+Help us by donating to our [patreon](https://patreon.com/user?u=56529246&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 
 
@@ -84,9 +84,8 @@ We look forward to reviewing your contributions.
 
 <!-- LICENSE -->
 ## License
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. See `LICENSE` for more information.
-
+<h1><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></h1>
 <!-- CONTACT -->
 ## Contact
 

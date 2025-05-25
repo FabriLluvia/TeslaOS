@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://gitlab.com/fabrilluvia/TeslaOS.git
+   git clone https://github.com/fabrilluvia/TeslaOS.git
 
    ```
 2. Ready to work!

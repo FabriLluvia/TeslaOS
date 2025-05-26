@@ -87,7 +87,7 @@ We look forward to reviewing your contributions.
 
 ## Brand Guidelines
 We have a standard color palette to use in everything that is TeslaOS-Related.
-[![Colors Palette](https://github.com/FabriLluvia/TeslaOS/blob/main/TeslaOS%20Palette.png)
+![Colors Palette](https://github.com/FabriLluvia/TeslaOS/blob/main/TeslaOS%20Palette.png)
 
 <!-- LICENSE -->
 ## License

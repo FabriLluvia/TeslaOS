@@ -91,10 +91,11 @@ We have a standard color palette to use in everything that is TeslaOS-Related.
 
 <!-- LICENSE -->
 ## License
-<a href="https://github.com/FabriLluvia/TeslaOS">TeslaOS</a> © 2025 by <a href="https://github.com/FabriLluvia">FabriLluvia</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/FabriLluvia/TeslaOS">TeslaOS</a> © 2025 by <a href="https://github.com/FabriLluvia">FabriLluvia</a> is licensed under 
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="width: 1em; height: 1em; vertical-align: middle; margin-left: .2em;">
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="width: 1em; height: 1em; vertical-align: middle; margin-left: .2em;">
+<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="width: 1em; height: 1em; vertical-align: middle; margin-left: .2em;">
 See `LICENSE` for more information.
 
 <!-- CONTACT -->

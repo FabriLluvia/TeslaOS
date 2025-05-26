@@ -1,5 +1,5 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/309a95661bef4dc6b7ed9d1a0a4a06e2)](https://app.codacy.com/gh/FabriLluvia/TeslaOS/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[TeslaOS Logo](https://github.com/FabriLluvia/TeslaOS/blob/main/TeslaOS%20Logo.png)
+[![TeslaOS Logo](https://github.com/FabriLluvia/TeslaOS/blob/main/TeslaOS%20Logo.png)
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -86,7 +86,7 @@ We look forward to reviewing your contributions.
 
 ## Brand Guidelines
 We have a standard color palette to use in everything that is TeslaOS-Related.
-[Colors Palette](https://github.com/FabriLluvia/TeslaOS/blob/main/TeslaOS%20Palette.png)
+[![Colors Palette](https://github.com/FabriLluvia/TeslaOS/blob/main/TeslaOS%20Palette.png)
 
 <!-- LICENSE -->
 ## License
